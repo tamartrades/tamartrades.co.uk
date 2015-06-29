@@ -2,7 +2,7 @@
     <section id="team" class="bg-light-gray">
         <div class="container">
             <div class="row">
-                <div class="col-lg-12 text-center">
+                <div class="col-lg-8 col-lg-push-2 text-center">
                     <h2 class="section-heading">Strength in numbers</h2>
                     <h3 class="section-subheading text-muted">In addition to our core team, we have established relationships with a large pool of talented local tradespeople and can draw in additonal resources at short notice when required.</h3>
                 </div>
@@ -27,9 +27,9 @@
                 <div class="col-sm-2">
 
                 </div>
-                <div class="col-sm-6">
+                <div class="col-sm-8">
                     {% for member in site.freelancers %}
-                    <div class="col-sm-4">
+                    <div class="col-sm-3">
                         <div class="team-member">
                             <img src="img/team/{{ member.pic }}.jpg" class="img-responsive img-circle" alt="">
                             <h4>{{ member.name }}</h4>

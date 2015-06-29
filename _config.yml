@@ -1,5 +1,5 @@
 url: https://y7kim.github.io
-baseurl: /tamartrades.co.uk
+baseurl: /
 
 # Site settings
 title: Tamar Trades Ltd
@@ -21,6 +21,9 @@ freelancers:
 
 - name: Susie Nonsense
   pic: 1
+
+- name: A.N Other
+  pic: 2
 
 
 # Team names, titles and social links
@@ -58,6 +61,8 @@ people:
     #   url: #
     # - title: google-plus
     #   url: #
+
+
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
