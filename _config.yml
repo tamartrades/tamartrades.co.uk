@@ -12,55 +12,57 @@ color:
   secondary: fec503
   secondary-dark: 333
 
-freelancers:
-- name: Ben Whalley
-  pic: 2
 
-- name: Jacob Nelson
-  pic: 3
-
-- name: Susie Nonsense
-  pic: 1
-
-- name: A.N Other
-  pic: 2
-
-
-# Team names, titles and social links
 people:
-- name: Joe Bloggs
-  pic: 1
-  position: Project manager
-  social:
-    # - title: twitter
-    #   url: #
-    # - title: facebook
-    #   url: #
-    # - title: stack-overflow
-    #   url: #
-
-
 - name: Justin Newman
-  pic: 2
-  position: General builder, plasterer
-  social:
-    # - title: twitter
-    #   url: #
-    # - title: facebook
-    #   url: #
-    # - title: linkedin
-    #   url: #
+  pic: jn.png
+  position: Director
 
-- name: Jon Doe
-  pic: 3
-  position: Electrician
+- name: Donna Prescott
+  pic: dp.png
+  position: Director
   social:
-    # - title: twitter
-    #   url: #
-    # - title: facebook
-    #   url: #
-    # - title: google-plus
-    #   url: #
+
+- name: William Southcott
+  pic: ws.png
+  position: Apprentice carpenter
+
+
+
+
+freelancers:
+- name: David Jones
+  pic: another.png
+  position: Carpenter
+
+- name: Adam Hancock
+  pic: another.png
+  position: Plasterer
+
+- name: Jonathan Hancock
+  pic: another.png
+  position: Electrician
+
+- name: Ian Coombe
+  pic: another.png
+  position: Builder
+
+- name: Kelvin Haddy
+  pic: another.png
+  position: Carpenter and joiner
+
+- name: Paul Hancock
+  pic: another.png
+  position: Electrician
+
+- name: Chris Stallard
+  pic: another.png
+  position: Aquaheat plumbing and heating.
+
+
+
+
+
 
 
 
