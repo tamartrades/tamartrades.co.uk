@@ -23,42 +23,39 @@ people:
   position: Director
   social:
 
-- name: William Southcott
-  pic: ws.png
-  position: Apprentice carpenter
 
 
 
 
 freelancers:
-- name: David Jones
-  pic: another.png
-  position: Carpenter
-
-- name: Adam Hancock
-  pic: another.png
-  position: Plasterer
-
-- name: Jonathan Hancock
-  pic: another.png
-  position: Electrician
-
-- name: Ian Coombe
-  pic: another.png
-  position: Builder
-
-- name: Kelvin Haddy
-  pic: another.png
-  position: Carpenter and joiner
-
-- name: Paul Hancock
-  pic: another.png
-  position: Electrician
-
-- name: Chris Stallard
-  pic: another.png
-  position: Aquaheat plumbing and heating.
-
+# - name: David Jones
+#   pic: another.png
+#   position: Carpenter
+#
+# - name: Adam Hancock
+#   pic: another.png
+#   position: Plasterer
+#
+# - name: Jonathan Hancock
+#   pic: another.png
+#   position: Electrician
+#
+# - name: Ian Coombe
+#   pic: another.png
+#   position: Builder
+#
+# - name: Kelvin Haddy
+#   pic: another.png
+#   position: Carpenter and joiner
+#
+# - name: Paul Hancock
+#   pic: another.png
+#   position: Electrician
+#
+# - name: Chris Stallard
+#   pic: another.png
+#   position: Aquaheat plumbing and heating.
+#
 
 
 
