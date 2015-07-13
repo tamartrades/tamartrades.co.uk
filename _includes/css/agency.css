@@ -271,7 +271,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url(img/header-bg.png);
+    background-image: url(img/header-bg.jpg);
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -881,3 +881,21 @@ body {
 }
 
 .text-left { text-align: left;}
+
+
+.logo-bg { 
+    background: #ff0000 !important;
+}
+
+
+
+.navbar-brand { 
+    background-color:rgba(0,0,0,0.7);
+}
+
+
+.navbar-brand:active { 
+    background-color:rgba(0,0,0,0.7) !important;
+}
+
+
