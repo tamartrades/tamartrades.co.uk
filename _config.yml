@@ -1,10 +1,10 @@
-url: https://y7kim.github.io
+url: http://www.tamartrades.co.uk
 baseurl: /
 
 # Site settings
 title: Tamar Trades
 email: tamartrades@gmail.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "Full service building, renovations, interiors and landscaping in the Tamar Valley, UK."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -27,53 +27,19 @@ people:
 
 
 
-freelancers:
-# - name: David Jones
-#   pic: another.png
-#   position: Carpenter
-#
-# - name: Adam Hancock
-#   pic: another.png
-#   position: Plasterer
-#
-# - name: Jonathan Hancock
-#   pic: another.png
-#   position: Electrician
-#
-# - name: Ian Coombe
-#   pic: another.png
-#   position: Builder
-#
-# - name: Kelvin Haddy
-#   pic: another.png
-#   position: Carpenter and joiner
-#
-# - name: Paul Hancock
-#   pic: another.png
-#   position: Electrician
-#
-# - name: Chris Stallard
-#   pic: another.png
-#   position: Aquaheat plumbing and heating.
-#
-
-
-
-
-
 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: twitter
-    url: http://twitter.com/bigfudge
-  # - title: facebook
-  #   url:
+# social:
+#   - title: twitter
+#     url: http://twitter.com/bigfudge
+#   # - title: facebook
+#   #   url:
 
-# Postal address (add as many lines as necessary)
-address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+# # Postal address (add as many lines as necessary)
+# address:
+#   - line: 3481 Melrose Place
+#   - line: Beverly Hills, CA 90210
 
 # Build settings
 markdown: kramdown
