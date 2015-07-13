@@ -177,7 +177,7 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .navbar-brand {
     font-family: "Helvetica Neue",Helvetica,Arial,cursive;
-    color: #{{ site.color.primary }};
+    color: red #{{ site.color.primary }};
 }
 
 .navbar-default .navbar-brand:hover,
@@ -883,19 +883,21 @@ body {
 .text-left { text-align: left;}
 
 
-.logo-bg { 
-    background: #ff0000 !important;
-}
-
-
 
 .navbar-brand { 
-    background-color:rgba(0,0,0,0.7);
+    background-color:rgba(0,0,0,0.5);
 }
+
 
 
 .navbar-brand:active { 
-    background-color:rgba(0,0,0,0.7) !important;
+    background-color:rgba(0,0,0,0.5) !important;
 }
+
+.navbar-default.navbar-shrink .navbar-brand {
+    background-color:rgba(0,0,0,0.0);
+}
+
+
 
 

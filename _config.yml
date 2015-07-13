@@ -2,14 +2,14 @@ url: https://y7kim.github.io
 baseurl: /
 
 # Site settings
-title: Tamar Trades Ltd
+title: Tamar Trades
 email: tamartrades@gmail.com
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary: 17688E
-  secondary: fec503
+  secondary: A6CF42
   secondary-dark: 333
 
 
